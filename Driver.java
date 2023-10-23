@@ -58,12 +58,6 @@ class Driver {
       queue.poll();
       queue.poll();
       queue.poll();
-
-
-
-		
-		
-		// Complete Driver described on Lecture 06 - Slide 16
 	
 	}
 
